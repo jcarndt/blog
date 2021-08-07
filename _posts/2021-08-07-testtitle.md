@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogging like a hacker
+title: You're up and running
 ---
 
 # Welcome
