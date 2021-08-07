@@ -20,4 +20,8 @@ Next you can update your site name, avatar and other options using the _config.y
 2. item
 3. item
 
-`code can look like this`
+```python
+s = code can look like this
+for item in key:
+  print(item)
+```
