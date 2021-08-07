@@ -20,4 +20,4 @@ Next you can update your site name, avatar and other options using the _config.y
 2. item
 3. item
 
-'code can look like this'
+`code can look like this`
